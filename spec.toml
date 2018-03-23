@@ -1,0 +1,4 @@
+name = "miyabi-working"
+image = "vmi-docker-17.12-ubuntu-16.04"
+flavor = "g-1gb"
+sshkey = "miyabi-ooh"
